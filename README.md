@@ -4,7 +4,6 @@ This is a RESTful API example based on Node.js and MongoDB, following the **MVC 
 
 **Mongoose** is used for Database transactions which is an elegant solution to mongodb object modeling for node.js.
 
-The application is **production ready**, and can be used behind a Nginx reverse proxy securely.
 
 ---
 
@@ -13,7 +12,7 @@ The application is **production ready**, and can be used behind a Nginx reverse 
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/Nodejs-REST-API.git
+git clone https://github.com/olori-ebi/Nodejs-REST-API.git
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -40,8 +39,4 @@ npm start
 
 ## Author
 
-- [**Truly Mittal**](https://trulymittal.com)
-
-## License
-
-This project is licensed under the MIT License.
+- [**Olori-Ebi**]
